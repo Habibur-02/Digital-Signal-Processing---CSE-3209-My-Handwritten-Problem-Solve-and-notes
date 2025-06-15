@@ -1,0 +1,2 @@
+# Digital-Signal-Processing---CSE-3209-My-Handwritten-Problem-Solve-and-notes
+This GitHub repository contains my handwritten solutions for Digital Signal Processing (DSP) (CSE 3209) course problems. The solutions cover key DSP topics such as:  Discrete-Time Signals &amp; Systems  Fourier Transform (DTFT, DFT, FFT)  Z-Transform &amp; Pole-Zero Analysis  Filter Design (FIR &amp; IIR)  Convolution, Correlation, and Sampling
